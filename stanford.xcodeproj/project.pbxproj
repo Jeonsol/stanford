@@ -56,15 +56,23 @@
 		C8539ECB2100E0C40078DD85 /* stanford */ = {
 			isa = PBXGroup;
 			children = (
-				C8539ECC2100E0C40078DD85 /* AppDelegate.swift */,
+				C8539EDB2100E0C50078DD85 /* Info.plist */,
+				C8539EE12100E2D10078DD85 /* New Group */,
 				C8539ECE2100E0C40078DD85 /* ViewController.swift */,
 				C8539ED02100E0C40078DD85 /* Main.storyboard */,
-				C8539ED62100E0C50078DD85 /* Assets.xcassets */,
-				C8539ED82100E0C50078DD85 /* LaunchScreen.storyboard */,
-				C8539EDB2100E0C50078DD85 /* Info.plist */,
-				C8539ED32100E0C40078DD85 /* stanford.xcdatamodeld */,
 			);
 			path = stanford;
+			sourceTree = "<group>";
+		};
+		C8539EE12100E2D10078DD85 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				C8539ECC2100E0C40078DD85 /* AppDelegate.swift */,
+				C8539ED62100E0C50078DD85 /* Assets.xcassets */,
+				C8539ED82100E0C50078DD85 /* LaunchScreen.storyboard */,
+				C8539ED32100E0C40078DD85 /* stanford.xcdatamodeld */,
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
